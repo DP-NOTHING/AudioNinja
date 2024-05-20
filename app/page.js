@@ -32,6 +32,7 @@ export default function Home() {
             container: node,
             state: "cursor",
             isContinuousPlay: false,
+            isAutomaticScroll: true,
             timescale: true,
             colors: {
               waveOutlineColor: "rgba(218, 206, 246, 1)",
